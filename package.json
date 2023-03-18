@@ -1,4 +1,5 @@
 {
+  "homepage":"https://JedapajiPractice.github.io/Avocados-Store",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
